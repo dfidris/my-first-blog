@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
 
-'127.0.0.1', 'Idris.pythonanywhere.com'
+'127.0.0.1', 'dfidris.pythonanywhere.com'
 
 ]
 
